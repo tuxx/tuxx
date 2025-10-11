@@ -4,7 +4,7 @@ _A programmer from the land of bikes, cheese, and questionable weather — **The
 ---
 
 ## 💻 About Me  
-I write code for a living 💰 and for fun 🎉 (which means I spend too much time behind a computer screen).
+I write code for a living 💰 and for fun 🎉 (which means I spend too much time behind a computer screen).  
 If it runs on Linux, I’ve probably broken it at least once before making it better.  
 
 📧 **Email:** [tuxx@danktank.nl](mailto:tuxx@danktank.nl)  
