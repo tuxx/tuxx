@@ -42,5 +42,4 @@ If it runs on Linux, I’ve probably broken it at least once before making it be
 
 ## ✨ Support My Sanity
 
-⭐ Star one of my projects. It doesn’t pay the bills, but it makes me feel warm inside.  
-Or send memes. Memes are good too.
+⭐ Star one of my projects. It doesn’t pay the bills, but it makes me feel warm inside. Or send memes. Memes are good too.
