@@ -19,7 +19,7 @@ If it runs on Linux, I’ve probably broken it at least once before making it be
 > Perfect for sharing cat pics 🐱 or random shell scripts 💀 in style.
 
 ### 🖼️ [localpics](https://github.com/tuxx/localpics)  
-> A Go program that displays your local folders without any processing.  
+> A Go program that displays your local folders in a webpage without any processing.  
 > Like a gallery, but it respects your CPU’s right to be lazy 😴.
 
 ### 📺 [youtube2mediacms](https://github.com/tuxx/youtube2mediacms)  
