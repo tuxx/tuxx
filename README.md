@@ -8,7 +8,7 @@ I write code for a living 💰 and for fun 🎉 (which means I spend too much ti
 If it runs on Linux, I’ve probably broken it at least once before making it better.  
 
 📧 **Email:** [tuxx@danktank.nl](mailto:tuxx@danktank.nl)  
-📰 **Blog:** [https://tuxx.net](https://tuxx.net) — where I dump all the random things I do or find interesting.
+📰 **Blog:** [https://tuxx.net](https://tuxx.net) — where I dump some of the random things I do or find interesting.
 
 ---
 
