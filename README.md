@@ -43,3 +43,10 @@ If it runs on Linux, I’ve probably broken it at least once before making it be
 ## ✨ Support My Sanity
 
 ⭐ Star one of my projects. It doesn’t pay the bills, but it makes me feel warm inside. Or send memes. Memes are good too.
+
+If you do feel inclined to pull your digital wallet 💵 and buy me a coffee ☕ or a lamborghini 🏎️
+
+- *ETH*: `0xEeB40816c52DE2ae2875f2Ddef43DE9030891a10`
+- *BTC*: `bc1q8yzarxghk7h2my7fph5cx6yxl25r8scpt7r3nw`
+- *XMR*: `45YZUXvU9YLVoEBSt1c5aQDV551ko4UiHYLaXybiXpaxQSNKH7raFSibEUoCFdviVp6zssus538aiBHPtYBJkcyR1vLMaSM`
+```
