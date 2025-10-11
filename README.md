@@ -49,4 +49,3 @@ If you do feel inclined to pull your digital wallet 💵 and buy me a coffee ☕
 - *ETH*: `0xEeB40816c52DE2ae2875f2Ddef43DE9030891a10`
 - *BTC*: `bc1q8yzarxghk7h2my7fph5cx6yxl25r8scpt7r3nw`
 - *XMR*: `45YZUXvU9YLVoEBSt1c5aQDV551ko4UiHYLaXybiXpaxQSNKH7raFSibEUoCFdviVp6zssus538aiBHPtYBJkcyR1vLMaSM`
-```
