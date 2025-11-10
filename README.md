@@ -14,6 +14,10 @@ If it runs on Linux, I’ve probably broken it at least once before making it be
 
 ## 🧠 I Maintain These Cool (and Questionably Useful) Projects
 
+### 🕹️ [super-tux-war](https://github.com/tuxx/super-tux-war)
+> A Godot-powered 2D arena head-stomping game inspired by *Super Mario War*.
+> Open source chaos where penguins settle their differences the old-fashioned way — with **jumps, shells, and questionable physics** 🐧💥.
+
 ### 📱 [LinxShare](https://github.com/tuxx/LinxShare)  
 > Android app for uploading files to your self-hosted [linx-server](https://github.com/andreimarcu/linx).  
 > Perfect for sharing cat pics 🐱 or random shell scripts 💀 in style.
